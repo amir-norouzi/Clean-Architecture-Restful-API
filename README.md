@@ -10,3 +10,16 @@ A clean structure for generate restful api with gin framework
     ├── models                      # all models
     ├── server                      # all routes in app
     └── README.md
+
+## Usage
+
+    Some installations:
+    
+    
+    go get -u github.com/gin-gonic/gin
+    go get -u gorm.io/gorm
+    go get -u gorm.io/driver/mysql
+    go get github.com/joho/godotenv
+    
+    
+ 
